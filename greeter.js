@@ -1,0 +1,1 @@
+create({ prop: 0 });
